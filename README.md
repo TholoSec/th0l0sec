@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      /* Style the text */
-      .text {
-        font-family: monospace; /* Use a monospace font for even spacing */
-        font-size: 24px;
-        letter-spacing: 10px; /* Add some space between each letter */
-      }
-    </style>
+    <title>My Simple Page</title>
   </head>
   <body>
-    <div class="text">TH0L0S3C</div>
+    <h1>Welcome to my page</h1>
+    <p>This is a simple HTML page.</p>
+    <img src="https://www.example.com/images/example-image.jpg" alt="An example image">
   </body>
 </html>
